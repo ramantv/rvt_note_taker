@@ -1,4 +1,34 @@
 {
-    "notes": [
-    ]
+  "notes": [
+    {
+      "title": "JSON Databases",
+      "text": "Check them out",
+      "id": "1sv85eskwtyxq7z"
+    },
+    {
+      "title": "Note One",
+      "text": "Note 1 text",
+      "id": "1sv85eskwtz9pty"
+    },
+    {
+      "title": "Note Two again",
+      "text": "Note 2 again text",
+      "id": "1sv85eskwtze2m9"
+    },
+    {
+      "title": "UI Note Creation",
+      "text": "Click the plus sign and enter note details",
+      "id": "1sv85eskwtzgkbb"
+    },
+    {
+      "title": "Raman's Super note",
+      "text": "No one who reads this note will ever understand how hard it was to get this to work!",
+      "id": "1sv85eskwtzl48z"
+    },
+    {
+      "title": "Raman's Victory Note",
+      "text": "Work smart some say. They lie!. Work hard others say. They also lie. Be lucky yet some others say. They have a point.",
+      "id": "1sv85eskwtzq3g7"
+    }
+  ]
 }
