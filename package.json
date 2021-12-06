@@ -1,5 +1,5 @@
 {
-  "name": "note-taker",
+  "name": "rvt-note-taker",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,6 +9,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.17.1",
+    "uniqid": "^5.4.0"
+  },
+  "devDependencies": {
+    "jest": "^27.4.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramantv/rvt_note_taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ramantv/rvt_note_taker/issues"
+  },
+  "homepage": "https://github.com/ramantv/rvt_note_taker#readme"
 }
