@@ -26,6 +26,7 @@ router.delete("/notes/:id", (req, res) => {
     } 
 
     updateDb(notes);
+    res.send("your note has been deleted");
 });
 
 
